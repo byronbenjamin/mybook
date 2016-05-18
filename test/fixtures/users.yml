@@ -3,3 +3,9 @@ byron:
   last_name: "Gage"
   email: "byrongage@yahoo.com"
   profile_name: "byronbenjamin"
+
+tim:
+  first_name: "Tim"
+  last_name: "Smith"
+  email: "ts@yahoo.com"
+  profile_name: "tsmitty"
